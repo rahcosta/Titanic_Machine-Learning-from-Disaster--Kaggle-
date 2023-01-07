@@ -7,3 +7,5 @@ No dia 15 de abril de 1912, durante sua viagem inaugural, o amplamente considera
 Embora houvesse algum elemento de sorte envolvido na sobrevivência, parece que alguns grupos de pessoas eram mais propensos a sobreviver do que outros.
 
 Neste desafio, pedimos que você construa um modelo preditivo que responda à pergunta: “que tipo de pessoa tem maior probabilidade de sobreviver?” usando os dados do passageiro (ou seja, nome, idade, sexo, classe socioeconômica, etc).
+
+Link para o desafio: https://www.kaggle.com/c/titanic
