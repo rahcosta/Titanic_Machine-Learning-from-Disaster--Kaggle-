@@ -1,5 +1,7 @@
 # Titanic: Machine Learning from Disaster (Kaggle)
  
+## O Desafio
+
 O naufrágio do Titanic é um dos mais trágicos da história.
 
 No dia 15 de abril de 1912, durante sua viagem inaugural, o amplamente considerado “inafundável” RMS Titanic acabou afundando após colidir com um iceberg. Infelizmente, não havia botes salva-vidas suficientes para todos a bordo, resultando na morte de 1.502 dos 2.224 passageiros e tripulantes.
